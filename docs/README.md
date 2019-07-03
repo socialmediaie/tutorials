@@ -53,3 +53,10 @@ Shubhanshu is a final year Ph.D. student at the School of Information Sciences i
 School of Information Sciences, University of Illinois at Urbana-Champaign  
 
 Jana Diesner is an Associate Professor at the School of Information Sciences (the iSchool) at the University of Illinois at Urbana-Champaign, and an affiliate at the Department of Computer Science, the Illinois Informatics Institute, the Information Trust Institute (ITI), and the Cline Center for Democracy. She is also the director of the LIS PhD program. Jana got her PhD in Computation, Organizations and Society (COS, now Societal Computing) from Carnegie Mellon University’s School of Computer Science. Jana’s research is in the areas of Computational Social Science (Social Computing) and Human-Centered Data Science. She integrates and advances methods from Social Network Analysis, Natural Language Processing, and MachineLearning with theories from the social sciences, humanities, and linguistics to answer substantive questions. Using this mixed methods and mixed data perspective, she 1) validates social network theories in contemporary settings, 2) studies consequences of limitations of data provenance and data quality at scale, and 3) assesses the impact of information on people.
+
+
+## References
+
+1. Sunita Sarawagi. 2007. Information Extraction.Foundations and Trends®in Databases1, 3 (mar 2007), 261–377. https://doi.org/10.1561/1900000003
+2. Shubhanshu Mishra, Jana Diesner, Jason Byrne, and Elizabeth Surbeck. 2015. Sentiment Analysis with Incremental Human-in-the-Loop Learning andLexical Resource Customization. InProceedings of the 26th ACM Conference on Hypertext &#38; Social Media (HT ’15). ACM, New York, NY, USA,323–325. https://doi.org/10.1145/2700171.2791022
+3. Shubhanshu Mishra and Jana Diesner. 2016. Semi-supervised Named Entity Recognition in noisy-text. InProceedings of the 2nd Workshop on NoisyUser-generated Text (WNUT). The COLING 2016 Organizing Committee, Osaka, Japan, 203–212. https://www.aclweb.org/anthology/W16-3927
