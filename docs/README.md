@@ -58,5 +58,5 @@ Jana Diesner is an Associate Professor at the School of Information Sciences (th
 ## References
 
 1. Sunita Sarawagi. 2007. Information Extraction.Foundations and Trends®in Databases1, 3 (mar 2007), 261–377. https://doi.org/10.1561/1900000003
-2. Shubhanshu Mishra, Jana Diesner, Jason Byrne, and Elizabeth Surbeck. 2015. Sentiment Analysis with Incremental Human-in-the-Loop Learning andLexical Resource Customization. InProceedings of the 26th ACM Conference on Hypertext &#38; Social Media (HT ’15). ACM, New York, NY, USA,323–325. https://doi.org/10.1145/2700171.2791022
-3. Shubhanshu Mishra and Jana Diesner. 2016. Semi-supervised Named Entity Recognition in noisy-text. InProceedings of the 2nd Workshop on NoisyUser-generated Text (WNUT). The COLING 2016 Organizing Committee, Osaka, Japan, 203–212. https://www.aclweb.org/anthology/W16-3927
+2. Shubhanshu Mishra, Jana Diesner, Jason Byrne, and Elizabeth Surbeck. 2015. Sentiment Analysis with Incremental Human-in-the-Loop Learning and Lexical Resource Customization. In Proceedings of the 26th ACM Conference on Hypertext & Social Media (HT'15). ACM, New York, NY, USA,323–325. https://doi.org/10.1145/2700171.2791022
+3. Shubhanshu Mishra and Jana Diesner. 2016. Semi-supervised Named Entity Recognition in noisy-text. In Proceedings of the 2nd Workshop on Noisy User-generated Text (WNUT). The COLING 2016 Organizing Committee, Osaka, Japan, 203–212. https://www.aclweb.org/anthology/W16-3927
