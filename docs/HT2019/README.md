@@ -6,7 +6,7 @@ description: "Hypertext Tutorial. September 17th, 2019"
 
 # Hypertext Tutorial
 
-[Tutorial Home](./)
+[Tutorial Home](../)
 
 * **Date:** September 17, 2019
 * **Venue:** [Hochschule Hof - Alfons-Goppel-Platz 1, 95028 Hof, Germany](https://human.iisys.de/ht2019/)
