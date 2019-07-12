@@ -1,5 +1,3 @@
-# Hands on advanced machine learning for information extraction from tweets tasks, data, and open source tools
-
 ## Abstract
 
 Information extraction (IE) [<sup>1</sup>] is a common sub-area of natural language processing that focuses on identifying structured data from unstructured data. One example of IE is to identify named entities in a text, e.g., &quot;**Barack Obama** served as the president of the **USA**&quot;. Here, Barack Obama and USA are named entities of types of PERSON and LOCATION, respectively. Another example is to identify sentiment expressed in a text, e.g., &quot;This movie was awesome&quot;. Here, the sentiment expressed is positive. Finally, identifying various linguistic aspects of a text, e.g., part of speech tags, noun phrases, dependency parses, etc., which can serve as features for additional IE tasks.
