@@ -2,6 +2,7 @@
 layout: default
 title: "Hands on advanced machine learning for information extraction from tweets --- tasks, data, and open source tools"
 description: "University of Illinois at Urbana-Champaign, Research Park on July 24th 2019. 9:00 a.m. - 1:00 p.m."
+permalink: /UIUC2019/
 ---
 
 # UIUC Research Park
