@@ -12,7 +12,7 @@ This tutorial introduces participants to a) the usage of Python based, open sour
 [SAIL]: https://github.com/uiuc-ischool-scanr/SAIL
 
 
-## Previous and upcoming tutorial dates
+## Previous and upcoming tutorial details
 
 * [University of Illinois at Urbana-Champaign, Research park, 24th July 2019](./UIUC2019.md)
 * [ACM HyperText, 17th September 2019](./HT2019.md)
