@@ -2,6 +2,7 @@
 layout: default
 title: "Hands on advanced machine learning for information extraction from tweets --- tasks, data, and open source tools"
 description: "Hypertext Tutorial. September 17th, 2019"
+permalink: /HT2019/
 ---
 
 # Hypertext Tutorial
