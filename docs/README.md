@@ -14,8 +14,10 @@ This tutorial introduces participants to a) the usage of Python based, open sour
 
 ## Previous and upcoming tutorial details
 
-* [July 24, 2019 - University of Illinois at Urbana-Champaign, Research park](./UIUC2019.md)
-* [September 17, 2019 - ACM HyperText, Hof, Germany](./HT2019.md)
+| Date               	| Venue                                                  										|
+|--------------------	|-----------------------------------------------------------								|
+| July 24, 2019      	| [University of Illinois at Urbana-Champaign, Research park](./UIUC2019.md)|
+| September 17, 2019 	| [ACM HyperText, Hof, Germany](./HT2019.md)                            		|
 
 ## Expected background and prerequisite of audience
 
