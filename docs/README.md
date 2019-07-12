@@ -12,45 +12,10 @@ This tutorial introduces participants to a) the usage of Python based, open sour
 [SAIL]: https://github.com/uiuc-ischool-scanr/SAIL
 
 
+## Previons and upcoming tutorial dates
 
-## Tutorial description
-
-This will be a **3-hours**  long tutorial session using Python based, open source tools. The tutorial will be structured as follows:
-
-## Introduction (15 mins)
-
-Familiarize participants with various IE tasks for tweets, e.g.:
-
-1. **Sequence tagging** : named entity detection and classification, part of speech tagging, chunking, and super-sense tagging.
-2. **Text classification** : sentiment prediction, sarcasm detection, and abusive content detection.
-
-## Applications of information extraction (15 mins)
-
-This includes:
-
-1. Query-based search on text corpora.
-2. Visualizing temporal trends in information.
-
-## Responsible and compliant data use of tweets (15 mins)
-
-1. Overview on available annotated tweet datasets.
-2. Clarify on terms of service, regulations such as privacy policies, and norms for working with tweets.
-
-## Break (15 mins)
-
-## Hands on session (1 hr. 30 mins)
-
-Gain hands on experience with:
-
-1. Collecting and sharing samples of tweet data, with focus on following Twitter&#39;s terms of service and additional community norms.
-2. Efficiently annotating classification data using active human-in-the-loop learning.
-3. Using highly accurate and open source models for various IE tasks.
-4. Training deep neural network models using multi-task learning for tweet information extraction tasks.
-5. Visualize extracted information and tweets using temporal network visualizations.
-
-## Conclusion (15 mins)
-
-Resources to follow up and questions from participants.
+* [University of Illinois at Urbana-Champaign, Research park, 24th July 2019](./UIUC2019.md)
+* [ACM HyperText, 17th September 2019](./HT2019.md)
 
 ## Expected background and prerequisite of audience
 
@@ -62,7 +27,7 @@ We expect participants to bring their own laptops with all the tools installed. 
 
 Finally, we expect basic familiarity with social media platforms like Twitter and Facebook. For participants who want to collect their own Twitter data for a tutorial exercise need to have a Twitter account, which can be bran new and just used for this workshop. For participants without a Twitter account, this exercise will still be screen presented and documentation provided such that participants can follow along and work through the examples later. The same is true for all exercises provided in the tutorial.
 
-## Author Bio&#39;s
+## Presenter Bio&#39;s
 
 ### [Shubhanshu Mishra](https://shubhanshu.com/)
 
