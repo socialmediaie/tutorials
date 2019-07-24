@@ -13,7 +13,7 @@ permalink: /UIUC2019/
 * **Time:**: 9:00 am - 1:00 pm
 * **Venue:** [UIUC EnterpriseWorks Room 130](https://calendars.illinois.edu/detail/5115?eventId=33346311)
 * **Please find the slides at: [https://socialmediaie.github.io/tutorials/UIUC2019/Tutorial-Slides-UIUC-Research-Park-24_07_2019.pdf](./Tutorial-Slides-UIUC-Research-Park-24_07_2019.pdf)**
-
+* **Contact:** Shubhanshu Mishra at [https://twitter.com/TheShubhanshu](https://twitter.com/TheShubhanshu)
 
 ## Tutorial description
 
