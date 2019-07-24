@@ -43,7 +43,7 @@ This includes:
 
 Gain hands on experience with:
 
-0. Setup - https://colab.research.google.com/drive/1YHMyGsnzUjTQ2GcRomGY5SD5eVPA1siR
+0. Setup - [https://colab.research.google.com/drive/1YHMyGsnzUjTQ2GcRomGY5SD5eVPA1siR](https://colab.research.google.com/drive/1YHMyGsnzUjTQ2GcRomGY5SD5eVPA1siR)
 1. Collecting and sharing samples of tweet data, with focus on following Twitter&#39;s terms of service and additional community norms.
 2. Efficiently annotating classification data using active human-in-the-loop learning.
 3. Using highly accurate and open source models for various IE tasks.
