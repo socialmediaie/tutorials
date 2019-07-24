@@ -42,8 +42,6 @@ This includes:
 
 ## Hands on session (1 hr. 30 mins)
 
-Gain hands on experience with:
-
 0. Setup [Google colaboratory](https://colab.research.google.com/) and install required dependencies (takes 15 mins) -[https://colab.research.google.com/drive/1YHMyGsnzUjTQ2GcRomGY5SD5eVPA1siR](https://colab.research.google.com/drive/1YHMyGsnzUjTQ2GcRomGY5SD5eVPA1siR)
 1. ~~Collecting and sharing samples of tweet data, with focus on following Twitter&#39;s terms of service and additional community norms.~~ **Covered in slides.** 
 2. ~~Efficiently annotating classification data using active human-in-the-loop learning.~~
@@ -51,6 +49,8 @@ Gain hands on experience with:
 4. Using Multi-task learning for sequence tagging - [https://colab.research.google.com/drive/1YhFsbVeSuXHHhtgKn5GFczj1FOTE44lT](https://colab.research.google.com/drive/1YhFsbVeSuXHHhtgKn5GFczj1FOTE44lT)
 5. Using Multi-task learning for text classification - [https://colab.research.google.com/drive/1pkE-GCKecWnzl5VygaZUCmneyNQuf2wr](https://colab.research.google.com/drive/1pkE-GCKecWnzl5VygaZUCmneyNQuf2wr)
 6. ~~Visualize extracted information and tweets using temporal network visualizations.~~ **Covered in slides. See: [https://shubhanshu.com/social-comm-temporal-graph/](https://shubhanshu.com/social-comm-temporal-graph/)**
+
+**NOTE:** - Access to SocialMediaIE library used for Multi-task learning was provided privately to the tutorial participants. We plan to release it as an open source library in coming months. You can check the status at: https://socialmediaie.github.io/
 
 ## Conclusion (15 mins)
 
