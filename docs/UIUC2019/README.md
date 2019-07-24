@@ -12,6 +12,7 @@ permalink: /UIUC2019/
 * **Date:** July 24, 2019
 * **Time:**: 9:00 am - 1:00 pm
 * **Venue:** [UIUC EnterpriseWorks Room 130](https://calendars.illinois.edu/detail/5115?eventId=33346311)
+* **Please find the slides at: [https://socialmediaie.github.io/tutorials/UIUC2019/Tutorial-Slides-UIUC-Research-Park-24_07_2019.pdf](./Tutorial-Slides-UIUC-Research-Park-24_07_2019.pdf)**
 
 
 ## Tutorial description
@@ -43,15 +44,13 @@ This includes:
 
 Gain hands on experience with:
 
-0. Setup - [https://colab.research.google.com/drive/1YHMyGsnzUjTQ2GcRomGY5SD5eVPA1siR](https://colab.research.google.com/drive/1YHMyGsnzUjTQ2GcRomGY5SD5eVPA1siR)
-  - [TwitterNER](https://github.com/napsternxg/TwitterNER) - `! git clone https://github.com/napsternxg/TwitterNER.git`
-  - `! cd TwitterNER/data/ && wget http://nlp.stanford.edu/data/glove.twitter.27B.zip && unzip glove.twitter.27B.zip`
-  - MTL - https://colab.research.google.com/drive/1YhFsbVeSuXHHhtgKn5GFczj1FOTE44lT
-1. Collecting and sharing samples of tweet data, with focus on following Twitter&#39;s terms of service and additional community norms.
-2. Efficiently annotating classification data using active human-in-the-loop learning.
-3. Using highly accurate and open source models for various IE tasks.
-4. Training deep neural network models using multi-task learning for tweet information extraction tasks.
-5. Visualize extracted information and tweets using temporal network visualizations.
+0. Setup [Google colaboratory](https://colab.research.google.com/) and install required dependencies (takes 15 mins) -[https://colab.research.google.com/drive/1YHMyGsnzUjTQ2GcRomGY5SD5eVPA1siR](https://colab.research.google.com/drive/1YHMyGsnzUjTQ2GcRomGY5SD5eVPA1siR)
+1. ~~Collecting and sharing samples of tweet data, with focus on following Twitter&#39;s terms of service and additional community norms.~~ **Covered in slides.** 
+2. ~~Efficiently annotating classification data using active human-in-the-loop learning.~~
+3. Using [TwitterNER](https://github.com/napsternxg/TwitterNER/) for feature based high accuracy named entity recognition for Tweets - [https://colab.research.google.com/drive/13u3Ox6UX0C4eeySPy61ciVcEVf7a86qU](https://colab.research.google.com/drive/13u3Ox6UX0C4eeySPy61ciVcEVf7a86qU)
+4. Using Multi-task learning for sequence tagging - [https://colab.research.google.com/drive/1YhFsbVeSuXHHhtgKn5GFczj1FOTE44lT](https://colab.research.google.com/drive/1YhFsbVeSuXHHhtgKn5GFczj1FOTE44lT)
+5. Using Multi-task learning for text classification - [https://colab.research.google.com/drive/1pkE-GCKecWnzl5VygaZUCmneyNQuf2wr](https://colab.research.google.com/drive/1pkE-GCKecWnzl5VygaZUCmneyNQuf2wr)
+6. ~~Visualize extracted information and tweets using temporal network visualizations.~~ **Covered in slides. See: [https://shubhanshu.com/social-comm-temporal-graph/](https://shubhanshu.com/social-comm-temporal-graph/)**
 
 ## Conclusion (15 mins)
 
