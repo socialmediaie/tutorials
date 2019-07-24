@@ -50,7 +50,7 @@ This includes:
 5. Using Multi-task learning for text classification - [https://colab.research.google.com/drive/1pkE-GCKecWnzl5VygaZUCmneyNQuf2wr](https://colab.research.google.com/drive/1pkE-GCKecWnzl5VygaZUCmneyNQuf2wr)
 6. ~~Visualize extracted information and tweets using temporal network visualizations.~~ **Covered in slides. See: [https://shubhanshu.com/social-comm-temporal-graph/](https://shubhanshu.com/social-comm-temporal-graph/)**
 
-**NOTE:** - Access to SocialMediaIE library used for Multi-task learning was provided privately to the tutorial participants. We plan to release it as an open source library in coming months. You can check the status at: https://socialmediaie.github.io/
+**NOTE:** Access to SocialMediaIE library used for Multi-task learning was provided privately to the tutorial participants. We plan to release it as an open source library in coming months. You can check the status at: https://socialmediaie.github.io/
 
 ## Conclusion (15 mins)
 
