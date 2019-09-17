@@ -56,6 +56,13 @@ This includes:
 * MTL - https://colab.research.google.com/drive/1YhFsbVeSuXHHhtgKn5GFczj1FOTE44lT?authuser=5
 * TwitterNER - https://colab.research.google.com/drive/13u3Ox6UX0C4eeySPy61ciVcEVf7a86qU?authuser=5
 
+
+```
+! /root/go/bin/gdrive download --no-progress --recursive 1kEb2VVZw4iLmNqP3oBPYPJbnVP4Guyl-
+! tar -xjf SocialMediaIE-data.tar.bz2
+
+```
+
 ## Conclusion (15 mins)
 
 Resources to follow up and questions from participants.
