@@ -50,6 +50,12 @@ This includes:
 5. Using Multi-task learning for text classification - [https://colab.research.google.com/drive/1YHMyGsnzUjTQ2GcRomGY5SD5eVPA1siR](https://colab.research.google.com/drive/1YHMyGsnzUjTQ2GcRomGY5SD5eVPA1siR)
 6. Visualize extracted information and tweets using temporal network visualizations. **Covered in slides. See: [https://shubhanshu.com/social-comm-temporal-graph/](https://shubhanshu.com/social-comm-temporal-graph/)**
 
+
+## Additional notebooks
+
+* MTL - https://colab.research.google.com/drive/1YhFsbVeSuXHHhtgKn5GFczj1FOTE44lT?authuser=5
+* TwitterNER - https://colab.research.google.com/drive/13u3Ox6UX0C4eeySPy61ciVcEVf7a86qU?authuser=5
+
 ## Conclusion (15 mins)
 
 Resources to follow up and questions from participants.
