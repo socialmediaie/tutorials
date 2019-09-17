@@ -11,6 +11,8 @@ permalink: /HT2019/
 
 * **Date:** September 17, 2019
 * **Venue:** [Hochschule Hof - Alfons-Goppel-Platz 1, 95028 Hof, Germany](https://human.iisys.de/ht2019/)
+* **Contact:** Shubhanshu Mishra at [https://twitter.com/TheShubhanshu](https://twitter.com/TheShubhanshu)
+
 
 
 ## Tutorial description
@@ -47,6 +49,15 @@ Gain hands on experience with:
 3. Using highly accurate and open source models for various IE tasks.
 4. Training deep neural network models using multi-task learning for tweet information extraction tasks.
 5. Visualize extracted information and tweets using temporal network visualizations.
+
+
+0. Setup [Google colaboratory](https://colab.research.google.com/) and install required dependencies (takes 15 mins) -[https://colab.research.google.com/drive/1YHMyGsnzUjTQ2GcRomGY5SD5eVPA1siR](https://colab.research.google.com/drive/1YHMyGsnzUjTQ2GcRomGY5SD5eVPA1siR)
+1. Collecting and sharing samples of tweet data, with focus on following Twitter&#39;s terms of service and additional community norms. **Covered in slides.** 
+2. ~~Efficiently annotating classification data using active human-in-the-loop learning.~~
+3. Using [TwitterNER](https://github.com/napsternxg/TwitterNER/) for feature based high accuracy named entity recognition for Tweets
+4. Using Multi-task learning for sequence tagging
+5. Using Multi-task learning for text classification
+6. Visualize extracted information and tweets using temporal network visualizations. **Covered in slides. See: [https://shubhanshu.com/social-comm-temporal-graph/](https://shubhanshu.com/social-comm-temporal-graph/)**
 
 ## Conclusion (15 mins)
 
