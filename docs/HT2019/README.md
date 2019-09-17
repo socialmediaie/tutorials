@@ -54,6 +54,7 @@ This includes:
 ## Additional notebooks
 
 * MTL - [https://colab.research.google.com/drive/1YhFsbVeSuXHHhtgKn5GFczj1FOTE44lT](https://colab.research.google.com/drive/1YhFsbVeSuXHHhtgKn5GFczj1FOTE44lT)
+* MTL classification - [https://colab.research.google.com/drive/1pkE-GCKecWnzl5VygaZUCmneyNQuf2wr](https://colab.research.google.com/drive/1pkE-GCKecWnzl5VygaZUCmneyNQuf2wr)
 * TwitterNER - [https://colab.research.google.com/drive/13u3Ox6UX0C4eeySPy61ciVcEVf7a86qU](https://colab.research.google.com/drive/13u3Ox6UX0C4eeySPy61ciVcEVf7a86qU)
 
 
