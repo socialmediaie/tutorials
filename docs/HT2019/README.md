@@ -60,7 +60,7 @@ This includes:
 ```
 ! /root/go/bin/gdrive download --no-progress --recursive 1kEb2VVZw4iLmNqP3oBPYPJbnVP4Guyl-
 ! tar -xjf SocialMediaIE-data.tar.bz2
-
+! cp -r ./content/drive/My\ Drive/SocialMediaIE/data/* ./SocialMediaIE/data
 ```
 
 ## Conclusion (15 mins)
