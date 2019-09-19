@@ -10,9 +10,10 @@ permalink: /HT2019/
 [Tutorial Home](../)
 
 * **Date:** September 17, 2019
+* **Time:** 9:30 am - 11:00 am and 11:30 am - 1:00 pm
 * **Venue:** [Hochschule Hof - Alfons-Goppel-Platz 1, 95028 Hof, Germany](https://human.iisys.de/ht2019/)
+* **Slides:** [https://socialmediaie.github.io/tutorials/HT2019/Tutorial-Slides-HT-Hof-Germany-17_09_2019.pdf](https://socialmediaie.github.io/tutorials/HT2019/Tutorial-Slides-HT-Hof-Germany-17_09_2019.pdf)
 * **Contact:** Shubhanshu Mishra at [https://twitter.com/TheShubhanshu](https://twitter.com/TheShubhanshu)
-
 
 
 ## Tutorial description
@@ -52,18 +53,16 @@ This includes:
 
 
 ## Additional notebooks
+**NOTE: because colab doesn't share VMs these notebooks don't work. You need to copy the code into the install library notebook**
 
 * MTL - [https://colab.research.google.com/drive/1YhFsbVeSuXHHhtgKn5GFczj1FOTE44lT](https://colab.research.google.com/drive/1YhFsbVeSuXHHhtgKn5GFczj1FOTE44lT)
 * MTL classification - [https://colab.research.google.com/drive/1pkE-GCKecWnzl5VygaZUCmneyNQuf2wr](https://colab.research.google.com/drive/1pkE-GCKecWnzl5VygaZUCmneyNQuf2wr)
 * TwitterNER - [https://colab.research.google.com/drive/13u3Ox6UX0C4eeySPy61ciVcEVf7a86qU](https://colab.research.google.com/drive/13u3Ox6UX0C4eeySPy61ciVcEVf7a86qU)
 
-
-```
-! /root/go/bin/gdrive download --no-progress --recursive 1kEb2VVZw4iLmNqP3oBPYPJbnVP4Guyl-
-! tar -xjf SocialMediaIE-data.tar.bz2
-! cp -r ./content/drive/My\ Drive/SocialMediaIE/data/* ./SocialMediaIE/data
-```
-
 ## Conclusion (15 mins)
 
 Resources to follow up and questions from participants.
+* Project page: [https://socialmediaie.github.io/](https://socialmediaie.github.io/)
+* TwitterNER: [https://github.com/napsternxg/TwitterNER ](https://github.com/napsternxg/TwitterNER )
+* Social Communication Temporal Graph: [https://shubhanshu.com/social-comm-temporal-graph/](https://shubhanshu.com/social-comm-temporal-graph/)
+* SocialMediaIE for multi-task learning: [https://github.com/socialmediaie/SocialMediaIE](https://github.com/socialmediaie/SocialMediaIE)
