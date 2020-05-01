@@ -17,9 +17,11 @@ This tutorial introduces participants to a) the usage of Python based, open sour
 
 | Date               	| Venue                                                  								 |
 |--------------------	|-----------------------------------------------------------						 |
-| Jul 24, 2019      	| [University of Illinois at Urbana-Champaign, Research park](./UIUC2019)|
+| Jul 17, 2020 				| [IC2S2, Boston, USA](./IC2S2_2020)                            		   |
+| May 11, 2020 				| [LREC, Marseille, France](./LREC2020)                            		   |
 | Sep 17, 2019 				| [ACM HyperText, Hof, Germany](./HT2019)                            		 |
-| May 11, 2020 				| [LREC, Marseille, France](./LREC2020)                            		 |
+| Jul 24, 2019      	| [University of Illinois at Urbana-Champaign, Research park](./UIUC2019)|
+
 
 ## Expected background and prerequisite of audience
 
@@ -31,7 +33,7 @@ We expect participants to bring their own laptops with all the tools installed. 
 
 Finally, we expect basic familiarity with social media platforms like Twitter and Facebook. For participants who want to collect their own Twitter data for a tutorial exercise need to have a Twitter account, which can be bran new and just used for this workshop. For participants without a Twitter account, this exercise will still be screen presented and documentation provided such that participants can follow along and work through the examples later. The same is true for all exercises provided in the tutorial.
 
-## Presenter Bio&#39;s
+## Presenter Bio's
 
 ### [Shubhanshu Mishra](https://shubhanshu.com/)
 
