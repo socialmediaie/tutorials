@@ -22,7 +22,10 @@ pip install python-dotenv
 # Run tagging webserver
 cd SocialMediaIE/webapp
 flask run --without-threads --no-reload
+# Open your browser http://localhost:5000 once you are done press Ctrl+C in Anaconda prompt
 
 # Run classification model
 cd SocialMediaIE/webapp_classification
 flask run --without-threads --no-reload
+
+# Open your browser http://localhost:5000 once you are done press Ctrl+C in Anaconda prompt
