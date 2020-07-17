@@ -68,7 +68,7 @@ This will be a **3-hours**  long tutorial session using Python based, open sourc
 ## APPLICATIONS OF INFORMATION EXTRACTION (SHUBHANSHU, JANA, AND SHADI) (30 MIN)
 * Indexing social media corpora in database
 * Network construction from text corpora 
-* Visualizing temporal trends in social media corpora using social communication temporal graphs (https://shubhanshu.com/social-comm-temporal-graph/) 
+* Visualizing temporal trends in social media corpora using social communication temporal graphs ([https://shubhanshu.com/social-comm-temporal-graph/](https://shubhanshu.com/social-comm-temporal-graph/)) 
 * Ranking users based on their enthusiasm and support towards social causes
 * Correlation between sentiment and user-level attributes in existing corpora
 * Analyzing social debate using sentiment and political identity signals otherwise
