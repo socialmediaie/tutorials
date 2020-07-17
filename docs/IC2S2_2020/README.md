@@ -12,7 +12,8 @@ permalink: /IC2S2_2020/
 * **Date:** July 17, 2020
 * **Time:** 1:00 PM CST
 * **Venue:** 4:00 PM CST
-* **Slides:** 
+* **Tutorial URL:** [https://ic2s2.pathable.co/meetings/RivLd9txkLqEdXC27#](https://ic2s2.pathable.co/meetings/RivLd9txkLqEdXC27#)
+* **Slides:** TBD
 * **Speakers:**
   - **[Shubhanshu Mishra](https://shubhanshu.com/):** Twitter, Inc. (presented work was done during PhD at the iSchool at University of Illinois Urbana-Champaign, USA)
   - **[Rezvaneh (Shadi) Rezapour](https://sites.google.com/view/rezapour/home):** The iSchool at University of Illinois Urbana-Champaign, USA 
@@ -81,9 +82,9 @@ This will be a **3-hours**  long tutorial session using Python based, open sourc
 ## BREAK (10 MINS)
 
 ## IMPROVING IE ON SOCIAL MEDIA DATA USING MACHINE LEARNING (SHUBHANSHU) (1 HRS)
-* Semi-supervised learning for Twitter NER (https://github.com/napsternxg/TwitterNER)
-* Multi-task learning for social media IE (https://socialmediaie.github.io)
-* Active learning for annotating social media data for text classification (https://github.com/uiuc-ischool-scanr/SAIL another version pySAIL to be released soon)
+* Semi-supervised learning for Twitter NER [https://github.com/napsternxg/TwitterNER](https://github.com/napsternxg/TwitterNER)
+* Multi-task learning for social media IE [https://socialmediaie.github.io](https://socialmediaie.github.io)
+* Active learning for annotating social media data for text classification ([https://github.com/uiuc-ischool-scanr/SAIL](https://github.com/uiuc-ischool-scanr/SAIL) another version pySAIL to be released soon)
 
 ## CONCLUSION AND FUTURE DIRECTIONS (SHUBHANSHU, JANA, AND SHADI) (20 MINS)
 * Open questions in social media IE
