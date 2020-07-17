@@ -49,7 +49,12 @@ This will be a **3-hours**  long tutorial session using Python based, open sourc
 
 
 ## Software setup
-Setting up the required software 
+
+* Make sure you have a google account. Log into that account.
+* Try to access the base notebook at on google colab at: [https://colab.research.google.com/drive/1wygmHuawC_UsBNmBWF-S0vVZEPSi3zuf?usp=sharing](https://colab.research.google.com/drive/1wygmHuawC_UsBNmBWF-S0vVZEPSi3zuf?usp=sharing)
+* If you would like to use SocialMediaIE on your desktop follow the instructions from: 
+
+
 
 # Tutorial day schedule
 
