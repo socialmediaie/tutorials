@@ -10,8 +10,8 @@ permalink: /IC2S2_2020/
 [Tutorial Home](../)
 
 * **Date:** July 17, 2020
-* **Time:** TBD
-* **Venue:** TBD
+* **Time:** 1:00 PM CST
+* **Venue:** 4:00 PM CST
 * **Slides:** 
 * **Speakers:**
   - **[Shubhanshu Mishra](https://shubhanshu.com/):** Twitter, Inc. (presented work was done during PhD at the iSchool at University of Illinois Urbana-Champaign, USA)
@@ -52,7 +52,7 @@ This will be a **3-hours**  long tutorial session using Python based, open sourc
 
 * Make sure you have a google account. Log into that account.
 * Try to access the base notebook at on google colab at: [https://colab.research.google.com/drive/1wygmHuawC_UsBNmBWF-S0vVZEPSi3zuf?usp=sharing](https://colab.research.google.com/drive/1wygmHuawC_UsBNmBWF-S0vVZEPSi3zuf?usp=sharing)
-* If you would like to use SocialMediaIE on your desktop follow the instructions from: 
+* If you would like to use SocialMediaIE on your desktop follow the instructions from: [./SETUP.md](./SETUP.md)
 
 
 
