@@ -35,7 +35,15 @@ wget ${DOWNLOAD_PATH} -O ic2s2_data.tar.gz
 cd SocialMediaIE/ && tar -xzf ../ic2s2_data.tar.gz 
 ```
 
-## Run the following in Anaconda
+
+## Test if everything works
+* Run the following on git bash or download the file test_install from [https://github.com/socialmediaie/tutorials/tree/master/docs/IC2S2_2020](https://github.com/socialmediaie/tutorials/tree/master/docs/IC2S2_2020) and place in `IC2S2` folder
+
+```bash
+wget https://raw.githubusercontent.com/socialmediaie/tutorials/master/docs/IC2S2_2020/test_install.py
+```
+
+### Run the following in Anaconda
 
 ```bash
 python test_install.py 
