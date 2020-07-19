@@ -13,7 +13,7 @@ permalink: /IC2S2_2020/
 * **Time:** 1:00 PM CST
 * **Venue:** 4:00 PM CST
 * **Tutorial URL:** [https://ic2s2.pathable.co/meetings/RivLd9txkLqEdXC27#](https://ic2s2.pathable.co/meetings/RivLd9txkLqEdXC27#)
-* **Slides:** TBD
+* **Slides:** [PDF](Presentation.pdf)
 * **Speakers:**
   - **[Shubhanshu Mishra](https://shubhanshu.com/):** Twitter, Inc. (presented work was done during PhD at the iSchool at University of Illinois Urbana-Champaign, USA)
   - **[Rezvaneh (Shadi) Rezapour](https://sites.google.com/view/rezapour/home):** The iSchool at University of Illinois Urbana-Champaign, USA 
