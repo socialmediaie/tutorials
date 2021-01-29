@@ -17,7 +17,8 @@ This tutorial introduces participants to a) the usage of Python based, open sour
 
 | Date               	| Venue                                                  								 |
 |--------------------	|-----------------------------------------------------------						 |
-| Jul 17, 2020 				| [IC2S2, Boston, USA](./IC2S2_2020)                            		   |
+| May 11, 2021.       | [TheWebConf, Ljubljana, Slovenia](./WWW2021)                           |
+| Jul 17, 2020 				| [IC2S2, Boston, USA](./IC2S2_2020)                              		   |
 | May 11, 2020 				| [LREC, Marseille, France](./LREC2020)                            		   |
 | Sep 17, 2019 				| [ACM HyperText, Hof, Germany](./HT2019)                            		 |
 | Jul 24, 2019      	| [University of Illinois at Urbana-Champaign, Research park](./UIUC2019)|
