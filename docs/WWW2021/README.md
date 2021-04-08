@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Information extraction from social media:  A hands-on tutorial on tasks, data, & open source tools"
-description: "TheWebConf 2020 Tutorial. May 11th, 2019"
+description: "TheWebConf 2021 Tutorial. April 14th, 2021"
 permalink: /WWW2021/
 ---
 
