@@ -24,6 +24,23 @@ In this hands-on tutorial, we introduce the participants to working with social 
 **Intended audience:** Researchers of social media datasets, computational social scientists, machine learning and NLP researchers.
 
 
+# Pre-arrival material
+
+* [Google Colab](https://colab.research.google.com)
+* Project page: [https://socialmediaie.github.io/](https://socialmediaie.github.io/)
+* TwitterNER: [https://github.com/napsternxg/TwitterNER ](https://github.com/napsternxg/TwitterNER )
+* Social Communication Temporal Graph: [https://shubhanshu.com/social-comm-temporal-graph/](https://shubhanshu.com/social-comm-temporal-graph/)
+* SocialMediaIE for multi-task learning: [https://github.com/socialmediaie/SocialMediaIE](https://github.com/socialmediaie/SocialMediaIE)
+
+
+## Software setup
+
+* Make sure you have a google account. Log into that account.
+* Try to access the base notebook at on google colab at: [https://colab.research.google.com/drive/1ptfxPMGBsvsSRzoas7_qD2D_m1WrbbNp?usp=sharing](https://colab.research.google.com/drive/1ptfxPMGBsvsSRzoas7_qD2D_m1WrbbNp?usp=sharing)
+* If you would like to use SocialMediaIE on your desktop follow the instructions from: [./SETUP.md](./SETUP.md)
+
+
+
 ## Agenda
 
 This will be a **3-hours**  long tutorial session using Python based, open source tools. The tutorial will be structured as follows:
