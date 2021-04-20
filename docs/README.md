@@ -40,7 +40,13 @@ Finally, we expect basic familiarity with social media platforms like Twitter an
 
 School of Information Sciences, University of Illinois at Urbana-Champaign
 
-Shubhanshu is graduating with a Ph.D. from the School of Information Sciences at the University of Illinois at Urbana-Champaign. He recently defended his thesis titled [Information extraction from digital social trace data: applications in social media and scholarly data analysis](http://shubhanshu.com/phd_thesis/). His current work is at the intersection of machine learning, information extraction, social network analysis, and visualizations. His research has led to the development of open source tools for information extraction from large scale social media and scholarly data. He holds an integrated bachelor&#39;s and master&#39;s degree in Mathematics and Computing from the Indian Institute of Technology, Kharagpur. For more information, see [https://shubhanshu.com/](https://shubhanshu.com/).
+Shubhanshu is Machine Learning Researcher at Twitter. He graduated with a Ph.D. from the School of Information Sciences at the University of Illinois at Urbana-Champaign. His thesis was titled [Information extraction from digital social trace data: applications in social media and scholarly data analysis](http://shubhanshu.com/phd_thesis/). His current work is at the intersection of machine learning, information extraction, social network analysis, and visualizations. His research has led to the development of open source tools for information extraction from large scale social media and scholarly data. He holds an integrated bachelor&#39;s and master&#39;s degree in Mathematics and Computing from the Indian Institute of Technology, Kharagpur. For more information, see [https://shubhanshu.com/](https://shubhanshu.com/).
+
+### [Rezvaneh (Shadi) Rezapour](https://sites.google.com/view/rezapour/home)
+
+School of Information Sciences, University of Illinois at Urbana-Champaign 
+
+Rezvaneh (Shadi) Rezapour is a Ph.D. candidate at the School of Information Sciences, University of Illinois at Urbana-Champaign. She is working in the [Social Computing Lab](http://jdiesnerlab.ischool.illinois.edu/index.html) under Professor Jana Diesner's supervision. She focuses on computational social science. In particular, she develops models to extract meaningful information from (online) social discourse. More broadly, she is interested in combining methods from natural language processing, machine learning, and network analysis with social science theories to better understand real world behaviors, attitudes and cultures.
 
 ### [Jana Diesner](http://jdiesnerlab.ischool.illinois.edu/)
 
