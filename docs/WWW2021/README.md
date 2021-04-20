@@ -13,7 +13,7 @@ permalink: /WWW2021/
 * **Time:** 9:00 AM EST (3:00 PM CEST)
 * **Venue:** 12:00 PM EST (6:00 PM CEST)
 * **Tutorial URL:** [https://theweb.miteam.eu/asset/tJrKgy3y4na4dssWc](https://theweb.miteam.eu/asset/tJrKgy3y4na4dssWc)
-* **Slides:** 
+* **Slides:** [PDF](./Tutorial Presentation.pdf) [PPTX](Tutorial Presentation.pptx)
 * **Contact:** Shubhanshu Mishra at [https://twitter.com/TheShubhanshu](https://twitter.com/TheShubhanshu)
 * **Presenters**: Shubhanshu Mishra, Rezvaneh (Shadi) Rezapour, Jana Diesner
 
