@@ -5,7 +5,7 @@ description: "TheWebConf 2021 Tutorial. April 14th, 2021"
 permalink: /WWW2021/
 ---
 
-# WWW 2021 Tutorial
+# WWW 2021 Tutorial - Information extraction from social media:  A hands-on tutorial on tasks, data, & open source tools
 
 [Tutorial Home](../)
 
