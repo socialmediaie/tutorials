@@ -5,7 +5,7 @@ description: "ECIR 2022 Tutorial. April 10th, 2022"
 permalink: /ECIR2022/
 ---
 
-# LREC 2022 Tutorial
+# ECIR 2022 Tutorial
 
 [Tutorial Home](../)
 
