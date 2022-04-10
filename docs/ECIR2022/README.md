@@ -16,6 +16,7 @@ permalink: /ECIR2022/
 * **Slides:** 
 * **Contact:** Shubhanshu Mishra at [https://twitter.com/TheShubhanshu](https://twitter.com/TheShubhanshu)
 * **Presenters:** Shubhanshu Mishra, Rezvaneh (Shadi) Rezapour, Jana Diesner
+* **QnA Page:** [https://slido.com with #905356](https://slido.com/905356)
 
 
 ## Tutorial description
