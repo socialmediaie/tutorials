@@ -13,7 +13,7 @@ permalink: /ECIR2022/
 * **Time:** Full day session
 * **Venue:** Online
 * **Tutorial Zoom Link:** [https://stavanger.zoom.us/j/69294930766?pwd=K1VtSHpOY1BvOHRxTy9nbVJUOHNHQT09](https://stavanger.zoom.us/j/69294930766?pwd=K1VtSHpOY1BvOHRxTy9nbVJUOHNHQT09)
-* **Slides:** 
+* **Slides:** [PDF](./Tutorial Presentation.pdf)
 * **Contact:** Shubhanshu Mishra at [https://twitter.com/TheShubhanshu](https://twitter.com/TheShubhanshu)
 * **Presenters:** Shubhanshu Mishra, Rezvaneh (Shadi) Rezapour, Jana Diesner
 * **QnA Page:** [https://slido.com with #905356](https://slido.com/905356)
