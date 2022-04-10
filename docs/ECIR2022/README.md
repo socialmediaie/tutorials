@@ -13,9 +13,9 @@ permalink: /ECIR2022/
 * **Time:** Full day session
 * **Venue:** Online
 * **Tutorial Zoom Link:** [https://stavanger.zoom.us/j/69294930766?pwd=K1VtSHpOY1BvOHRxTy9nbVJUOHNHQT09](https://stavanger.zoom.us/j/69294930766?pwd=K1VtSHpOY1BvOHRxTy9nbVJUOHNHQT09)
-* **Slides:** [PDF](./Tutorial Presentation.pdf)
+* **Slides:** [PDF](./Tutorial_Presentation.pdf)
 * **Contact:** Shubhanshu Mishra at [https://twitter.com/TheShubhanshu](https://twitter.com/TheShubhanshu)
-* **Presenters:** Shubhanshu Mishra, Rezvaneh (Shadi) Rezapour, Jana Diesner
+* **Presenters:** Shubhanshu Mishra ([@TheShubhanshu](https://twitter.com/TheShubhanshu)), Rezvaneh (Shadi) Rezapour [@shadi_rezapour](https://twitter.com/shadi_rezapour), Jana Diesner [@janadiesner](https://twitter.com/janadiesner)
 * **QnA Page:** [https://slido.com with #905356](https://slido.com/905356)
 
 
@@ -45,7 +45,7 @@ The tutorial aims to serve the following use cases for social media researchers:
 ### Software setup
 
 * Make sure you have a google account. Log into that account.
-* Try to access the base notebook at on google colab at: [https://colab.research.google.com/drive/1u0dmojMnNZmSdHfKmxwspGQDHDyrOqE3?usp=sharing](https://colab.research.google.com/drive/1u0dmojMnNZmSdHfKmxwspGQDHDyrOqE3?usp=sharing)
+* Try to access the base notebook at on google colab at: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/socialmediaie/tutorials/blob/master/docs/ECIR2022/ECIR_2022_Tutorial_SocialMediaIE.ipynb)
 * If you would like to use SocialMediaIE on your desktop follow the instructions from: [../WWW2021/SETUP.md](../WWW2021/SETUP.md)
 
 
