@@ -11,9 +11,11 @@ permalink: /ECIR2022/
 
 * **Date:** April 10, 2022
 * **Time:** Full day session
-* **Venue:** TBD
+* **Venue:** Online
+* Tutorial Zoom Link: [https://stavanger.zoom.us/j/69294930766?pwd=K1VtSHpOY1BvOHRxTy9nbVJUOHNHQT09](https://stavanger.zoom.us/j/69294930766?pwd=K1VtSHpOY1BvOHRxTy9nbVJUOHNHQT09)
 * **Slides:** 
 * **Contact:** Shubhanshu Mishra at [https://twitter.com/TheShubhanshu](https://twitter.com/TheShubhanshu)
+* Presenters: Shubhanshu Mishra, Rezvaneh (Shadi) Rezapour, Jana Diesner
 
 
 ## Tutorial description
@@ -28,6 +30,25 @@ The tutorial aims to serve the following use cases for social media researchers:
 *	temporal visualization of the communication structure in social media corpora via social communication temporal graph visualization technique, and
 *	detecting and prioritizing needs during crisis events (e.g, COVID19). 
 *	Furthermore, the participants will be familiarized with a catalogue of more than 30 publicly available social media corpora for various IE tasks, e.g., named entity recognition (NER), part of speech (POS) tagging, chunking, super sense tagging, entity linking, sentiment classification, and hate speech identification. 
+
+## Pre-arrival material
+
+* [Google Colab](https://colab.research.google.com)
+* Project page: [https://socialmediaie.github.io/](https://socialmediaie.github.io/)
+* TwitterNER: [https://github.com/napsternxg/TwitterNER ](https://github.com/napsternxg/TwitterNER)
+* Social Communication Temporal Graph: [https://shubhanshu.com/social-comm-temporal-graph/](https://shubhanshu.com/social-comm-temporal-graph/)
+* SocialMediaIE for multi-task learning: [https://github.com/socialmediaie/SocialMediaIE](https://github.com/socialmediaie/SocialMediaIE)
+* SocialMediaIE models on Huggingface Hub: [https://huggingface.co/socialmediaie](https://huggingface.co/socialmediaie)
+
+
+### Software setup
+
+* Make sure you have a google account. Log into that account.
+* Try to access the base notebook at on google colab at: [https://colab.research.google.com/drive/1u0dmojMnNZmSdHfKmxwspGQDHDyrOqE3?usp=sharing](https://colab.research.google.com/drive/1u0dmojMnNZmSdHfKmxwspGQDHDyrOqE3?usp=sharing)
+* If you would like to use SocialMediaIE on your desktop follow the instructions from: [../WWW2021/SETUP.md](../WWW2021/SETUP.md)
+
+
+## Agenda
 
 This will be a fill day tutorial session using Python based, open source tools. The tutorial will be structured as follows:
 
@@ -62,8 +83,10 @@ This will be a fill day tutorial session using Python based, open source tools. 
 *	Multi-task learning for social media IE (https://socialmediaie.github.io), 
 *	Active learning for annotating social media data for text classification (https://github.com/uiuc-ischool-scanr/SAIL another version pySAIL to be released soon), 
 *	Finetuning transformer models for monolingual and multi-lingual social media NLP tasks. 
-*	Biases in social media NER. 
-*	Utilizing Social Context for improving NLP Models. 
+*	Biases in social media NER - [https://arxiv.org/abs/2008.03415](https://arxiv.org/abs/2008.03415)
+*	Utilizing Social Context for improving NLP Models - [https://github.com/twitter-research/lmsoc](https://github.com/twitter-research/lmsoc)
+*	Improved Multilingual Language Model Pretraining for Social Media Text via Translation Pair Prediction - [https://github.com/twitter-research/multilingual-alignment-tpp](https://github.com/twitter-research/multilingual-alignment-tpp)
+
 
 ###	Conclusion and future directions (10 mins)
 *	Open questions in social media IE, 
