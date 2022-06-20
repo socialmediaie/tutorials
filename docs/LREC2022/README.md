@@ -12,7 +12,7 @@ permalink: /LREC2022/
 * **Date:** June 20, 2022
 * **Time:** afternoon session
 * **Venue:** Online
-* **Slides:** 
+* **Slides:** [PDF](./Tutorial_Presentation.pdf)
 * **Tutorial Zoom Link:** [https://us02web.zoom.us/j/87972812672](https://us02web.zoom.us/j/87972812672)
 * **Presenters:** Shubhanshu Mishra ([@TheShubhanshu](https://twitter.com/TheShubhanshu)), Rezvaneh (Shadi) Rezapour [@shadi_rezapour](https://twitter.com/shadi_rezapour), Jana Diesner [@janadiesner](https://twitter.com/janadiesner)
 * **QnA Page:** [https://slido.com with #3287167](https://slido.com/3287167)
