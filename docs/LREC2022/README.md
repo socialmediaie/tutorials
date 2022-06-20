@@ -11,8 +11,11 @@ permalink: /LREC2022/
 
 * **Date:** June 20, 2022
 * **Time:** afternoon session
-* **Venue:** TBD
+* **Venue:** Online
 * **Slides:** 
+* **Tutorial Zoom Link:** [https://us02web.zoom.us/j/87972812672](https://us02web.zoom.us/j/87972812672)
+* **Presenters:** Shubhanshu Mishra ([@TheShubhanshu](https://twitter.com/TheShubhanshu)), Rezvaneh (Shadi) Rezapour [@shadi_rezapour](https://twitter.com/shadi_rezapour), Jana Diesner [@janadiesner](https://twitter.com/janadiesner)
+* **QnA Page:** [https://slido.com with #3287167](https://slido.com/3287167)
 * **Contact:** Shubhanshu Mishra at [https://twitter.com/TheShubhanshu](https://twitter.com/TheShubhanshu)
 
 
@@ -68,6 +71,23 @@ This will be a **3-hours**  long tutorial session using Python based, open sourc
 ###	Conclusion and future directions (10 mins): 
 *	Open questions in social media IE, 
 *	Tutorial feedback and additional questions
+
+
+## Pre-arrival material
+
+* [Google Colab](https://colab.research.google.com)
+* Project page: [https://socialmediaie.github.io/](https://socialmediaie.github.io/)
+* TwitterNER: [https://github.com/napsternxg/TwitterNER ](https://github.com/napsternxg/TwitterNER)
+* Social Communication Temporal Graph: [https://shubhanshu.com/social-comm-temporal-graph/](https://shubhanshu.com/social-comm-temporal-graph/)
+* SocialMediaIE for multi-task learning: [https://github.com/socialmediaie/SocialMediaIE](https://github.com/socialmediaie/SocialMediaIE)
+* SocialMediaIE models on Huggingface Hub: [https://huggingface.co/socialmediaie](https://huggingface.co/socialmediaie)
+
+
+### Software setup
+
+* Make sure you have a google account. Log into that account.
+* Try to access the base notebook at on google colab at: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/socialmediaie/tutorials/blob/master/docs/LREC2022/LREC_2022_Tutorial_SocialMediaIE.ipynb)
+* If you would like to use SocialMediaIE on your desktop follow the instructions from: [../WWW2021/SETUP.md](../WWW2021/SETUP.md)
 
 Resources to follow up and questions from participants.
 * Project page: [https://socialmediaie.github.io/](https://socialmediaie.github.io/)
