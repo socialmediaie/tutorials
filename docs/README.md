@@ -17,6 +17,7 @@ This tutorial introduces participants to a) the usage of Python based, open sour
 
 | Date               	| Venue                                                  				    |
 |-----------------------|---------------------------------------------------------------------------|
+| Oct 20, 2022 			| [CIKM, Austin, TX, USA](./CIKM2022)                            		    |
 | Jun 20, 2022 			| [LREC, Marseille, France](./LREC2022)                            		    |
 | Apr 10, 2022 			| [ECIR, Stavanger, Norway](./ECIR2022)                            		    |
 | May 11, 2020 			| ~~[LREC, Marseille, France](./LREC2020)~~ - Cancelled due to Covid        |
