@@ -5,7 +5,7 @@ description: "CIKM 2022 Tutorial. October 20th, 2022"
 permalink: /CIKM2022/
 ---
 
-# ECIR 2022 Tutorial
+# CIKM 2022 Tutorial
 
 [Tutorial Home](../)
 
