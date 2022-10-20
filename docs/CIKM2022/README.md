@@ -95,9 +95,9 @@ More details below:
 
 ###	Improving IE on social media data via Machine Learning (2 hr 30 mins)
 
-*	Semi-supervised learning for Twitter NER (https://github.com/napsternxg/TwitterNER), 
-*	Multi-task learning for social media IE (https://socialmediaie.github.io), 
-*	Active learning for annotating social media data for text classification (https://github.com/uiuc-ischool-scanr/SAIL another version pySAIL to be released soon), 
+*	Semi-supervised learning for Twitter NER [https://github.com/napsternxg/TwitterNER](https://github.com/napsternxg/TwitterNER), 
+*	Multi-task learning for social media IE [https://socialmediaie.github.io](https://socialmediaie.github.io), 
+*	Active learning for annotating social media data for text classification ([https://github.com/uiuc-ischool-scanr/SAIL](https://github.com/uiuc-ischool-scanr/SAIL) another version pySAIL to be released soon), 
 *	Finetuning transformer models for monolingual and multi-lingual social media NLP tasks. 
 *	Biases in social media NER - [https://arxiv.org/abs/2008.03415](https://arxiv.org/abs/2008.03415)
 *	Utilizing Social Context for improving NLP Models - [https://github.com/twitter-research/lmsoc](https://github.com/twitter-research/lmsoc)
