@@ -12,11 +12,11 @@ permalink: /CIKM2022/
 * **Date:** October 20, 2022
 * **Time:** Full day session
 * **Venue:** Online
-* **Tutorial Zoom Link:** 
-* **Slides:** 
+* **Tutorial Zoom Link:** [https://us06web.zoom.us/j/82890322784?pwd=c3QyU1JEcEdvTDgzRzV0KzU2SG1idz09](https://us06web.zoom.us/j/82890322784?pwd=c3QyU1JEcEdvTDgzRzV0KzU2SG1idz09)
+* **Slides:** [PDF](./Presentation_CIKM_2022.pdf)
 * **Contact:** Shubhanshu Mishra at [https://twitter.com/TheShubhanshu](https://twitter.com/TheShubhanshu)
 * **Presenters:** Shubhanshu Mishra ([@TheShubhanshu](https://twitter.com/TheShubhanshu)), Rezvaneh (Shadi) Rezapour [@shadi_rezapour](https://twitter.com/shadi_rezapour), Jana Diesner [@janadiesner](https://twitter.com/janadiesner)
-* **QnA Page:** 
+* **QnA Page:** [https://slido.com with #3287167](https://slido.com/3287167)
 
 
 ## Tutorial description
@@ -45,13 +45,26 @@ The tutorial aims to serve the following use cases for social media researchers:
 ### Software setup
 
 * Make sure you have a google account. Log into that account.
-* Try to access the base notebook at on google colab at: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/socialmediaie/tutorials/blob/master/docs/ECIR2022/ECIR_2022_Tutorial_SocialMediaIE.ipynb)
+* Try to access the base notebook at on google colab at: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/socialmediaie/tutorials/blob/master/docs/CIKM2022/CIKM_2022_Tutorial_SocialMediaIE.ipynb)
 * If you would like to use SocialMediaIE on your desktop follow the instructions from: [../WWW2021/SETUP.md](../WWW2021/SETUP.md)
 
 
 ## Agenda
 
 This will be a full day tutorial session using Python based, open source tools. The tutorial will be structured as follows:
+
+* 09:30 AM CST - Setup and Introduction (1 hr) – Shubh
+* 10:30 AM CST - Applications of information extraction (30 mins) - PART 1 - Shubh or Shadi
+* 11:00 AM CST - Applications of information extraction (30 mins) - PART 2 - Shubh or Shadi
+* 11:30 AM CST - Lunch Break (1.5 hrs)
+* 01:00 PM CST - Datasets
+* 01:30 PM CST – Hands On: Improving IE on social media data via ML (1 hr) - PART 1 – Shubh
+* 02:30 PM CST – Break (30 mins)
+* 03:00 PM CST - Hands On: Improving IE on social media data via ML (1 hr) - PART 2 - Shubh
+* 04:00 PM CST - Collecting and distributing social media data (25) - Shubh and Jana
+* 04:45 PM CST - Conclusion and future directions (5 mins) - Shubh, Shadi, and Jana
+
+More details below:
 
 **NOTE: This is tentative and will be updated before the actual tutorial.**
 
